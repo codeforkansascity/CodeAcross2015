@@ -1,5 +1,10 @@
 [![Stories in Ready](https://badge.waffle.io/zmon/CodeAcross2015Organizer.png?label=ready&title=Ready)](https://waffle.io/zmon/CodeAcross2015Organizer)
-## Waffle.io Hackshop
+## Kansas City Code Across 2015
+
+This is our repository to organize this event.
+
+If you have an idea, please add an issue, or comment on existing issues.
+
 
 [![Stories Ready to Work On](https://badge.waffle.io/zmon/CodeAcross2015Organizer.svg?label=ready&title=Cards%20Ready%20To%20Work%20On)](https://waffle.io/zmon/CodeAcross2015Organizer)
 
