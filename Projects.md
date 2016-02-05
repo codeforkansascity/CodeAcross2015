@@ -17,7 +17,5 @@ Several potential projects were identified, some of which may be feasible for cl
     *  This is a very interesting concept but needs further refinement.
 
 *  **telemedicine further into the community** A project that would promote incorporating.  
-
-    * Ann Marie suggested this is a very hot topic
     
 * **MAPSCorps** The mapping of community health resources is done by MAPSCorps, which trains and employs local high school students to map a community’s health assets. This offers meaningful STEM (Science, Technology, Engineering, and Mathematics) work experiences for the students and others who are employed by this project. Since 2009, MAPSCorps has created 276 active jobs for youth and back-to-work adults, mapped 24 neighborhoods spanning 11 Chicago ZIP codes, and identified over 9,000 community resources
