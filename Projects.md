@@ -12,11 +12,11 @@ Several potential projects were identified, some of which may be feasible for cl
 
     *  Might have the  highest potential for ROI
 
-* Another suggested project would to develop a technology solution in the area of **social connectedness and health**, specifically in the area of increasing civic participation of women.  There is a corollary between people who are active socially and better health status.  This project would focus particularly on women of moderate and less means and find ways to connect them to civic participation projects.
+* **social connectedness and health** Another suggested project would to develop a technology solution in the area of social connectedness and health, specifically in the area of increasing civic participation of women.  There is a corollary between people who are active socially and better health status.  This project would focus particularly on women of moderate and less means and find ways to connect them to civic participation projects.
 
     *  This is a very interesting concept but needs further refinement.
 
-* A project that would promote incorporating **telemedicine further into the community**.  
+*  **telemedicine further into the community** A project that would promote incorporating.  
 
     * Ann Marie suggested this is a very hot topic
     
