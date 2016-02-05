@@ -7,7 +7,7 @@ In anticipation of the Spring, 2016 Law, Technology & Public Policy course and t
 
 Several potential projects were identified, some of which may be feasible for class participation.  The projects discussed were as follows:
 
-* The KMCO Dept. of Health’s Code for America Fellowship project – putting KCMO resident’s immunization records online. The general impetus for this project is to reduce the need for city residents to travel downtown and to stand in line in order to receive a copy of the record.  While the general outline for the project exists, the Code for America fellows will not arrive until February, 2016 to begin the project.  They will be in KCMO until roughly the end of March and then return to their respective home bases to work on the specific project outline.
+* The KMCO Dept. of Health’s Code for America Fellowship project – putting *KCMO resident’s immunization records online*. The general impetus for this project is to reduce the need for city residents to travel downtown and to stand in line in order to receive a copy of the record.  While the general outline for the project exists, the Code for America fellows will not arrive until February, 2016 to begin the project.  They will be in KCMO until roughly the end of March and then return to their respective home bases to work on the specific project outline.
 
   * Class project feasibility:  
 
@@ -25,7 +25,7 @@ Several potential projects were identified, some of which may be feasible for cl
 
     *  MedPods website:   www.nexgenisys.com/medspod.php venture, as opposed to a volunteer effort. 
 
-* Improving access to Medical transportation in KCMO.  One of the largest deterrents to providing health care is the inability of individuals to physically get to health providers for access.  This project envisions creating an online system for identifying the where is it/what is it of transportation opportunities. 
+* *Improving access to Medical transportation* in KCMO.  One of the largest deterrents to providing health care is the inability of individuals to physically get to health providers for access.  This project envisions creating an online system for identifying the where is it/what is it of transportation opportunities. 
 
   * Class project feasibility:
 
@@ -34,7 +34,7 @@ Several potential projects were identified, some of which may be feasible for cl
     * There is no project team in place for this and so it most likely would be something to pitch at the CodeAcross event and then perhaps become a project 
 for summer or fall.
 
-* Another suggested project would to develop a technology solution in the area of social connectedness and health, specifically in the area of increasing civic participation of women.  There is a corollary between people who are active socially and better health status.  This project would focus particularly on women of moderate and less means and find ways to connect them to civic participation projects.
+* Another suggested project would to develop a technology solution in the area of *social connectedness and health*, specifically in the area of increasing civic participation of women.  There is a corollary between people who are active socially and better health status.  This project would focus particularly on women of moderate and less means and find ways to connect them to civic participation projects.
 
   * Class project feasibility:
 
@@ -42,10 +42,12 @@ for summer or fall.
 
     *  There is no project team in place for this and so it most likely would be something to pitch at the CodeAcross event and then perhaps become a project for summer or fall.
 
-* A project that would promote incorporating telemedicine further into the community.  
+* A project that would promote incorporating *telemedicine further into the community*.  
 
   *  Class project feasibility:
 
     * Ann Marie suggested this is a very hot topic
 
     *  There is no project team in place for this and so it most likely would be something to pitch at the CodeAcross event and then perhaps become a project for summer or fall.
+    
+* *MAPSCorps*The mapping of community health resources is done by MAPSCorps, which trains and employs local high school students to map a community’s health assets. This offers meaningful STEM (Science, Technology, Engineering, and Mathematics) work experiences for the students and others who are employed by this project. Since 2009, MAPSCorps has created 276 active jobs for youth and back-to-work adults, mapped 24 neighborhoods spanning 11 Chicago ZIP codes, and identified over 9,000 community resources
