@@ -1,4 +1,4 @@
-[![Stories in Ready](https://badge.waffle.io/zmon/CodeAcross2015Organizer.png?label=ready&title=Ready)](https://waffle.io/zmon/CodeAcross2015Organizer)  Check out our issue board to see what you can do to help!
+[![Stories in Ready](https://badge.waffle.io/codeforkansascity/CodeAcross2015.svg?label=ready&title=Ready)](http://waffle.io/codeforkansascity/CodeAcross2015) Check out our issue board to see what you can do to help!
 
 ## Kansas City Code Across 2015
 
